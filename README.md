@@ -1,10 +1,12 @@
 ## About The Project
 
-This is a quick tutorial project to solidfy knowledge of Basic React Concepts:
+This is a quick project to solidfy knowledge of Basic React Concepts:
 - Class vs. Functional Components
 - React Router
 - Hooks
 - Context API
+
+Utilizes Github API
 
 <hr>
 
